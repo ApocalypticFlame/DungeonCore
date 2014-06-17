@@ -1,4 +1,4 @@
 DungeonCore
 ===========
 
-A mod centered around the dungeon core item.
+A mod based around the dungeon core item.
